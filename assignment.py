@@ -1,0 +1,1 @@
+#This is just a random file to test how to put a file on git and github. I am not sure if this is going to work but I hope it does. I am just going to write some random code here to see if it works. I am going to write a simple function that adds two numbers together and returns the result.
