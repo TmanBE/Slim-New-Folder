@@ -1,0 +1,13 @@
+#create ten (10) file extensions
+ - tolu.py
+ - tolu.c
+ - tolu.js
+ - tolu.txt
+ - tolu.php
+ - tolu.html
+ - tolu.go
+ - tolu.ruby
+ - tolu.css
+ - tolu.pdf
+ - tolu.exe
+ - tolu.r
