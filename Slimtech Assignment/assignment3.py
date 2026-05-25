@@ -43,3 +43,11 @@ print(max(my_list))
 
 #printing the minimum number in the list
 print(min(my_list))
+
+#Third Assignment
+#Create a set that contains all the months with the letter 'e'
+
+#Creation of the month variable
+month_with_e = {"February", "June", "September", "October", "November", "December"}
+print(month_with_e)
+print(type(month_with_e))
