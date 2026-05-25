@@ -92,3 +92,62 @@ my_list.__add__([4,5,6]) #This will concatenate the list with another list [4, 5
 
 new_list.extend([14,90,76,53])
 print(new_list)
+
+#Arithmetic operations
+#Carry out some arthmetic operations such as addition, subtraction, multiplication, division, modulus, exponentiation, and floor division
+
+#Exponential
+a = 3
+b = -2.5
+print(a ** b) #This will print the result of 3 raised to the power of 2.5, which is approximately 15.588457268119896
+
+print(b ** a) #This will print the result of 2.5 raised to the power of 3, which is 15.625
+
+#modulus
+c = 11
+d = -2
+print(c % d) #This will print the remainder of 11 divided by -2, which is 1 because -2 goes into 11 five times with a remainder of 1
+
+#Floor division rounds down to the nearest whole number
+e = 11
+f = 2
+print(e // f) #This will print the result of 11 floor divided by -2, which is -6 because -2 goes into 11 five times with a remainder of 1 and the floor division rounds down to the nearest whole number, which is -6
+
+total_seconds = 3725
+total_hours = total_seconds // 3600
+remaining_seconds = total_seconds % 3600
+remaining_minutes = remaining_seconds // 60
+print(total_hours) 
+print(remaining_seconds)
+print(remaining_minutes)
+
+#Comparison Operators
+# this is the comparison operator ('==')
+
+a = 3
+b = 3
+
+print(a==b)
+
+#Not equal to
+#This is the not equal to sign operator ('!=')
+
+a = 5 
+b = 7
+c = a != b
+
+print(c)
+
+#greater than sign ('>') and less than sign ('<')
+
+print(b > a)
+print(b < a)
+
+#Greater than or equal to ('>=') and less than or equal to sign ('<=')
+
+print(a >= b)
+print(a <= b)
+
+#Logical operators
+#AND operator ('&&') & OR operator ('||')
+
